@@ -81,5 +81,5 @@ theme: hueman
 deploy: 
   type: git
   ##repo: https://github.com/trevery/tinkerplus.git
-  repo: git@github.com:TinkerPlus/TinkerPlus.github.io.git
+  repo: git@github.com:trevery/trevery.github.io.git
   branch: master 
